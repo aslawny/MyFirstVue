@@ -1,16 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
+  <img alt="just logo" src="./assets/logo-slawny.jpg" />
   <HelloWorld msg="Bonjour Le Coding en vue" />
-  <img alt="just logo" src="./assets/image-test.png" />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from "./components/HelloWorld.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    HelloWorld,
+  },
+};
 </script>
