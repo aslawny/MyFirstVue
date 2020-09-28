@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <button @click="count++">count is: {{ count }}</button>
+  <button @click="count++">Page View count is: {{ count }}</button>
 </template>
 
 <script>

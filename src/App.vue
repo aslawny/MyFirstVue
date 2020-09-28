@@ -1,5 +1,5 @@
 <template>
-  <img alt="just logo" src="./assets/image-test.png" />
+  <img alt="just logo" src="./assets/logo-slawny.jpg" />
   <HelloWorld msg="Bonjour Le Coding en vue" />
 </template>
 
