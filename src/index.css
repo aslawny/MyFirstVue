@@ -5,4 +5,8 @@
     text-align: center;
     color: #2c3e50;
     margin-top: 10px;
+    //a confirmer header bar material =>https://material.io/components
+    @use "@material/icon-button";
+    @use "@material/top-app-bar/mdc-top-app-bar";
+    @include icon-button.core-styles;
 }
