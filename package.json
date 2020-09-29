@@ -1,17 +1,15 @@
 {
-  "name": "sandbox-0",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
-  "dependencies": {
-    "@material/top-app-bar": "^7.0.0",
-    "vue": "^3.0.0-rc.1",
-    "vue-sidebar-menu": "^4.7.2"
-  },
-  "devDependencies": {
-    "vite": "^1.0.0-rc.1",
-    "@vue/compiler-sfc": "^3.0.0-rc.1"
-  }
+    "name": "MyFirstVue",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "vue": "^3.0.0"
+    },
+    "devDependencies": {
+        "vite": "^1.0.0-rc.1",
+        "@vue/compiler-sfc": "^3.0.0-rc.1"
+    }
 }
