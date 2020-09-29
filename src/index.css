@@ -1,3 +1,16 @@
+html,
+body {
+    height: 100%;
+}
+
+#page-content {
+    flex: 1 0 auto;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
 #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -5,4 +18,5 @@
     text-align: center;
     color: #2c3e50;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
